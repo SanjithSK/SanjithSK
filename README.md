@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SanjithSK
 - 👀 I’m interested in Coding.
-- 🌱 I’m currently learning Coding.
+
 
 <!---
 SanjithSK/SanjithSK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
