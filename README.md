@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @SanjithSK
-- 👀 I’m interested in Coding.
-
-
-<!---
-SanjithSK/SanjithSK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m **Sanjith SK** (@SanjithSK)  
+💻 Python Developer | Django | REST APIs  
+🚀 Passionate about building scalable backend systems and clean APIs  
+🧠 Interested in Backend Engineering, AI/ML, and DevOps  
+🛠️ Tech Stack: Python, Django, DRF, Flask, PostgreSQL, Docker, AWS  
+🌱 Currently learning: Advanced system design, CI/CD, and ML integration  
+📫 Reach me at: engagesanjith@gmail.com
